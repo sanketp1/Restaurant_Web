@@ -1,27 +1,47 @@
-# LetsGoWeb
+# 🍽️ Restaurant Management System – Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+Welcome to the **Restaurant Management System (Frontend)**, a modern web application designed to manage restaurant operations including orders, table reservations, billing, and menu management.
 
-## Development server
+> 🔗 **Backend Repository:** [Restaurant_Server](https://github.com/sanketp1/Restaurant_Server.git)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🚀 Features
 
-## Build
+- 🔐 Role-based Authentication (Admin, Manager, Waiter, Customer)
+- 📋 Menu Management (CRUD operations for menu items)
+- 🪑 Table Reservation System
+- 🧾 Order and Billing System
+- 📊 Dashboard with Order and Sales Summary
+- 📱 Responsive UI with Bootstrap
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## 🛠️ Technologies Used
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### 🔧 Frontend
+- [Angular](https://angular.io/) – Framework for building SPA
+- [Bootstrap](https://getbootstrap.com/) – For responsive and stylish UI
 
-## Running end-to-end tests
+### 🔗 Backend (See [Restaurant_Server](https://github.com/sanketp1/Restaurant_Server.git))
+- Java + Spring Boot
+- MySQL
+- JUnit (for unit testing)
+- Postman (for API testing)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## 🧑‍💻 Getting Started
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Prerequisites
+
+- Node.js and Angular CLI
+- Git
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sanketp1/Restaurant_Web.git
+   cd Restaurant_Web
